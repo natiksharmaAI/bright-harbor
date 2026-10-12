@@ -1,0 +1,21 @@
+{
+  "name": "bright-harbor-dental",
+  "version": "1.0.0",
+  "description": "Bright Harbor Dental - Modern Coastal Clinic Website with Supabase Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dental-clinic",
+    "supabase",
+    "healthcare-website",
+    "vanilla-js"
+  ],
+  "author": "Bright Harbor Dental",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

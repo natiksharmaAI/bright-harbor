@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment and logs
+*.log
+.env
+.env.local
+
+# Temporary / build scratch artifacts
+temp_cases/
+test_smiles/
+cropped_smiles/
+macro_smiles/
+
+# OS metadata
+.DS_Store
+Thumbs.db
